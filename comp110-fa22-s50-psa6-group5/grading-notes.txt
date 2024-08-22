@@ -1,0 +1,5 @@
+Overall Grade: 20.50 out of 21.00
+
+Grading Notes:
+- Commenting: Missing initial "summary" of function in docstring comment. (-0.5)
+- Great work!

@@ -1,0 +1,8 @@
+Part 4: Put your analysis of the AI's stategy, based on viewing the contents of its
+hats.
+
+Based on the contents of the AI's hats, the AI's strategy is to take 3 sticks if the remaining amount 
+of sticks is a variable of 4. Take 2 sticks if the remaining number of sicks is a variable of 3. Take a random stick if odd 
+not a varaible of 3. And to take 1 stick if even and not a variable of 4 . 
+This strategy works mathmatically as it makes it more likely that your opponent will end up with an odd number of sticks and 
+eventually end up with the last stick, resulting in you winning. 
