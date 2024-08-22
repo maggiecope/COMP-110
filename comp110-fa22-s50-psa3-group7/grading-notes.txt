@@ -1,0 +1,6 @@
+Overall Grade: 17.25 out of 16.50
+
+Grading Notes:
+- Commenting: Functions could use some more comments in them. (-0.25)
+- Extra Credit: Great job removing punctuation!
+- Excellent work!
