@@ -1,0 +1,5 @@
+cow|vaca
+cat|gato
+food|comida
+apple|manzana
+smile|sonrisa
