@@ -1,0 +1,5 @@
+Overall Grade: 25.00 out of 26.00
+
+Grading Notes:
+- Commenting: Need a few comments inside functions to help tricky spots, e.g. why that equation for multiplier? (-1)
+- Overall, great work!
